@@ -27,6 +27,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+![Postman](https://img.shields.io/badge/-Postman-0D1117?style=for-the-badge&logo=Postman&labelColor=0D1117)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
 ![Linux Mint](https://img.shields.io/badge/-Linux%20Mint-0D1117?style=for-the-badge&logo=Linux%20Mint&labelColor=0D1117)&nbsp;
  
@@ -40,6 +41,7 @@
 ![Php](https://img.shields.io/badge/-Php-0D1117?style=for-the-badge&logo=Php&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![JWT](https://img.shields.io/badge/-JWT-0D1117?style=for-the-badge&logo=JWT&labelColor=0D1117)&nbsp;
 ![Sequelize](https://img.shields.io/badge/-Sequelize-0D1117?style=for-the-badge&logo=Sequelize&labelColor=0D1117)&nbsp;
+![Knex](https://img.shields.io/badge/-Knex-0D1117?style=for-the-badge&logo=Knex&labelColor=0D1117)&nbsp;
 ![Nodemon](https://img.shields.io/badge/-Nodemon-0D1117?style=for-the-badge&logo=Nodemon&labelColor=0D1117)&nbsp;
 ![NPM](https://img.shields.io/badge/-NPM-0D1117?style=for-the-badge&logo=NPM&labelColor=0D1117)&nbsp;
 ### Studying in this moment:
