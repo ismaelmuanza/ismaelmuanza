@@ -37,6 +37,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
 ![SASS](https://img.shields.io/badge/-SASS-0D1117?style=for-the-badge&logo=SASS&labelColor=0D1117)&nbsp;
+![Tailwind](https://img.shields.io/badge/-SASS-0D1117?style=for-the-badge&logo=tailwind&labelColor=0D1117)&nbsp;
  ![jQuery](https://img.shields.io/badge/-jQuery-0D1117?style=for-the-badge&logo=jQuery&labelColor=0D1117)&nbsp;
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![Php](https://img.shields.io/badge/-Php-0D1117?style=for-the-badge&logo=Php&logoColor=1572B6&labelColor=0D1117)&nbsp;
