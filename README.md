@@ -18,10 +18,15 @@
 ### Main skills:
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![Next JS](https://img.shields.io/badge/-Next_JS-0D1117?style=for-the-badge&logo=Next_JS&labelColor=0D1117)&nbsp;
+![React Native](https://img.shields.io/badge/-React%20Native-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Typescript](https://img.shields.io/badge/-Typescript-0D1117?style=for-the-badge&logo=Typescript&labelColor=0D1117)&nbsp;
-![Express.js](https://img.shields.io/badge/-Express.js-0D1117?style=for-the-badge&logo=Express.js&labelColor=0D1117)&nbsp;
+![Express.js](https://img.shields.io/badge/-Express.js-0D1117?style=for-the-badge&logo=express&logoColor=white)
+![Fastify](https://img.shields.io/badge/-Fastify-0D1117?style=for-the-badge&logo=fastify&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-0D1117?style=for-the-badge&logo=nestjs&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
+![Prisma](https://img.shields.io/badge/-Prisma-0D1117?style=for-the-badge&logo=NPrisma&labelColor=0D1117)&nbsp;
 
  
 ### Tools:
@@ -43,16 +48,13 @@
 ![Php](https://img.shields.io/badge/-Php-0D1117?style=for-the-badge&logo=Php&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![JWT](https://img.shields.io/badge/-JWT-0D1117?style=for-the-badge&logo=JWT&labelColor=0D1117)&nbsp;
 ![Sequelize](https://img.shields.io/badge/-Sequelize-0D1117?style=for-the-badge&logo=Sequelize&labelColor=0D1117)&nbsp;
-![Knex](https://img.shields.io/badge/-Knex-0D1117?style=for-the-badge&logo=Knex&labelColor=0D1117)&nbsp;
+![Knex.js](https://img.shields.io/badge/-Knex.js-0D1117?style=for-the-badge&logo=knex.js&logoColor=white)
 ![Nodemon](https://img.shields.io/badge/-Nodemon-0D1117?style=for-the-badge&logo=Nodemon&labelColor=0D1117)&nbsp;
 ![NPM](https://img.shields.io/badge/-NPM-0D1117?style=for-the-badge&logo=NPM&labelColor=0D1117)&nbsp;
 ### Studying in this moment:
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![React Native](https://img.shields.io/badge/-React%20Native-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next JS](https://img.shields.io/badge/-Next_JS-0D1117?style=for-the-badge&logo=Next_JS&labelColor=0D1117)&nbsp;
-![Typescript](https://img.shields.io/badge/-Typescript-0D1117?style=for-the-badge&logo=Typescript&labelColor=0D1117)&nbsp;
-![Prisma](https://img.shields.io/badge/-Prisma-0D1117?style=for-the-badge&logo=NPrisma&labelColor=0D1117)&nbsp;
+![Prisma](https://img.shields.io/badge/-Prisma-0D1117?style=for-the-badge&logo=prisma&logoColor=white)
 
 
 <div align="center">
