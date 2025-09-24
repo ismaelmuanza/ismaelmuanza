@@ -3,17 +3,28 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Ismael+Muanza;I'm+22+years+old;I+am+from+Angola,+Luanda;I+study+web+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ismaelmuanza&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Ismael Muanza" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismaelmuanza&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  <!-- Stats gerais -->
+  <img 
+       src="https://github-readme-stats.vercel.app/api?username=ismaelmuanza&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" 
+       alt="GitHub Stats"
+       height="180"/>
+  
+  <!-- Linguagens mais usadas -->
+  <img 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismaelmuanza&layout=compact&langs_count=8&hide_border=true&title_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" 
+       alt="Top Languages"
+       height="180"/>
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ismaelmuanza&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- Gráfico de contribuições -->
+<div align="center">
+  <img 
+       src="https://github-readme-activity-graph.vercel.app/graph?username=ismaelmuanza&bg_color=0d1117&color=00bfbf&line=00bfbf&point=ffffff&area=true&hide_border=true" 
+       alt="Contribution Graph"
+       width="95%"/>
+</div>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ismaelmuanza&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
  
 ### Main skills:
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
